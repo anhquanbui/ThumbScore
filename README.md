@@ -1,6 +1,6 @@
 # 🎨 YouTube Thumbnail Aesthetic Scorer (Colab Notebook)
 
-This project shows how to **analyze and score YouTube thumbnails** by visual aesthetics using a **single Google Colab notebook** and a lightweight **Streamlit** app for interactive viewing.
+This project shows how to **analyze and score YouTube thumbnails** by visual aesthetics using a **single Google Colab notebook** and a lightweight **Streamlit** app for interactive viewing. I made the notebook file to test something new for my project.
 
 - **Dataset used:** [YouTube Thumbnail Dataset by Adina Punyobanerjee (Kaggle)](https://www.kaggle.com/datasets/adinapunyobanerjee/youtube-thumbnail-dataset)  
 - **Goal:** Compute an **aesthetic proxy score (0–1)** for each thumbnail (no CTR labels required).  
